@@ -35,11 +35,13 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-A discourse vpon the earthquake that hapned throughe this realme of Englande, and other places of Ch
+
 #####Body#####
-A discourse vpon the earthquake that hapned throughe this realme of Englande, and other places of Ch
+MAny and woonderfull wayes (good Christiā Reader) hathe God in all ages most mercifullye called all
+1. ¶ The reporte of the said Earthquake, and howe it beganne.
+
 #####Back#####
-A discourse vpon the earthquake that hapned throughe this realme of Englande, and other places of Ch
+Imprinted at London, by Henry Bynneman. Anno. 1580.
 **Types of content**
 
   * Oh, Mr. Jourdain, there is **prose** in there!
